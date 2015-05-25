@@ -1,0 +1,1 @@
+ <div class="alert alert-success">Grantschool # <?php echo html_escape($site_id); ?> deleted.</div>

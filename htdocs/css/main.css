@@ -1,0 +1,66 @@
+
+
+body {
+    background: url(metal.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    font-size: 14px;
+}
+
+.container{
+    background-color: rgba(0,0,0,0.7);
+    width: 75%;
+    color: white;
+    border-radius: 10px;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+td{
+    text-align: left;
+}
+.alert-success{
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    border-color: #808080;
+}
+.logoutbtn{
+    font-size: 18px;
+    color: lightgray;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    float: right;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+.left{
+    float: left;
+    margin-left: 15%;
+}
+.right{
+    float: right;
+    margin-right: 15%;
+}
+.container{
+    width: 95%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

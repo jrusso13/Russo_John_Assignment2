@@ -1,0 +1,1 @@
+<div class="alert alert-success">Grantschool #<?php echo html_escape($site->site_id); ?> created!</div>
